@@ -1,0 +1,13 @@
+VALIDATION RESULTS
+==================================================
+Number of images: 3000
+Data directory: F:/Reconstructing_face_under_mask/dataset/without_mask
+Image size: 256x256
+
+PSNR (masked region): 22.01 dB
+PSNR (full image): 29.02 dB
+SSIM (full image): 0.9299
+VGG Perceptual Loss: 1.446653
+MSE (masked region): 0.006728
+MSE (unmasked region): 0.000073
+FID Score: 5.5557
