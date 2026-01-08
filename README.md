@@ -58,8 +58,7 @@
 
 ## IV. 📄 Documents
 
-- 📑 **PDF Report**: [Link to Report](https://drive.google.com/...)
-- 📊 **Presentation Slide**: [Link to Slide](https://drive.google.com/...)
+- 📑 **PDF Report and Slide**: [Link to Report and Slide](https://drive.google.com/drive/folders/1GcXnHNc9ZkaiojCI4zqHuxhcBdlKiM8f)
 
 ---
 
