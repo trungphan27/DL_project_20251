@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "deeplearning",
+			"path": "."
+		},
+		{
+			"name": "img_align_celeba",
+			"path": "../img_align_celeba"
+		}
+	],
+	"settings": {}
+}
